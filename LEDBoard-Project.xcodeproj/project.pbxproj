@@ -13,6 +13,7 @@
 		0456B061270CBAD4002C5F9B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0456B05F270CBAD4002C5F9B /* Main.storyboard */; };
 		0456B063270CBAD8002C5F9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0456B062270CBAD8002C5F9B /* Assets.xcassets */; };
 		0456B066270CBAD8002C5F9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0456B064270CBAD8002C5F9B /* LaunchScreen.storyboard */; };
+		0456B07A270D6BC8002C5F9B /* LEDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0456B079270D6BC7002C5F9B /* LEDViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0456B062270CBAD8002C5F9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0456B065270CBAD8002C5F9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0456B067270CBAD8002C5F9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0456B079270D6BC7002C5F9B /* LEDViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LEDViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0456B05B270CBAD4002C5F9B /* SceneDelegate.swift */,
 				0456B05D270CBAD4002C5F9B /* ViewController.swift */,
 				0456B05F270CBAD4002C5F9B /* Main.storyboard */,
+				0456B079270D6BC7002C5F9B /* LEDViewController.swift */,
 				0456B062270CBAD8002C5F9B /* Assets.xcassets */,
 				0456B064270CBAD8002C5F9B /* LaunchScreen.storyboard */,
 				0456B067270CBAD8002C5F9B /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				0456B05E270CBAD4002C5F9B /* ViewController.swift in Sources */,
 				0456B05A270CBAD4002C5F9B /* AppDelegate.swift in Sources */,
+				0456B07A270D6BC8002C5F9B /* LEDViewController.swift in Sources */,
 				0456B05C270CBAD4002C5F9B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
